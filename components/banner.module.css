@@ -1,6 +1,6 @@
-﻿/** By default, this is a mobile breakpoint **/
-.container {
+﻿/** By default, this is a mobile breakpoint **/.container {
   margin-bottom: 1rem;
+  background: none;
 }
 
 .title {
